@@ -1,7 +1,7 @@
 <h1 align="center">Russell Brian Silagan</h1>
 
 ## 🎓 Education
-2nd year BSIT student at New Era University
+3rd year BSIT student at New Era University
 
 <h3>📜 Certifications</h3>
 <div align="center">
